@@ -46,21 +46,6 @@ jacoco()
 
 
 
-stage('SonarQube'){
-
-steps{
-
-bat label: '', script: '''mvn sonar:sonar \
-
--Dsonar.host.url=http://localhost:9000 \
-
--Dsonar.login=cac532de1d5fd9fe0a121fa32418aca760fa747a'''
-
-}
-
-}
-
-
 
 stage('Maven Package'){
 
