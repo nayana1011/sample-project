@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: nayn1
+Build-Jdk: 11.0.10
+Class-Path: lib/apiguardian-api-1.1.0.jar lib/opentest4j-1.2.0.jar lib/j
+ unit-platform-suite-engine-1.8.1.jar lib/junit-platform-engine-1.8.1.ja
+ r lib/junit-platform-suite-api-1.8.1.jar lib/junit-platform-suite-commo
+ ns-1.8.1.jar lib/junit-platform-launcher-1.8.1.jar lib/junit-platform-c
+ ommons-1.7.0.jar
+Main-Class: com.sapient.App
+Created-By: Maven Integration for Eclipse
+
