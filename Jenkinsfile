@@ -54,7 +54,7 @@ bat label: '', script: '''mvn sonar:sonar \
 
 -Dsonar.host.url=http://localhost:9000 \
 
--Dsonar.login=dd022e9e217e2f549002894e2c0e985bd94f9bca'''
+-Dsonar.login=cac532de1d5fd9fe0a121fa32418aca760fa747a'''
 
 }
 
